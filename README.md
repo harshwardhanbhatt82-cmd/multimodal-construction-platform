@@ -4,7 +4,7 @@ A generative AI-assisted construction management application developed as a coll
 
 ## Live Demo
 
-[https://multimodal-construction-intelligence-byharsh.streamlit.app/](https://harshwardhanbhatt82-cmd-multimodal-construction-plat-app-kr7fvk.streamlit.app/)
+(https://harshwardhanbhatt82-cmd-multimodal-construction-plat-app-kr7fvk.streamlit.app/)
 
 ## Project Overview
 
